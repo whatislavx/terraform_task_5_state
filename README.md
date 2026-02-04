@@ -70,3 +70,5 @@ Add the following secrets to your GitHub repository:
 - Check the Azure Blob Storage to ensure the `terraform.tfstate` file is stored there.
 
 **7. Pull request's description should also contain a reference to a successful workflow run**
+
+OK
